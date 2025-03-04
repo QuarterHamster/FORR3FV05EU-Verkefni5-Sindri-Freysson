@@ -7,4 +7,7 @@ Verkefnið var að gera gagnvirkt uppboðshús sem myndi nota drag and drop hjá
 ## Myndband
 [Linkur fyrir myndband](https://youtu.be/3u4Y4bPBhiA)
 ## Heimildir og söfn notuð
+* Three.js
+* KIRI Engine (Til að skanna hlut)
+* Blender (Til að einfalda hierarchy)
 ## Útkoma
