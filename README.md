@@ -10,4 +10,5 @@ Verkefnið var að gera gagnvirkt uppboðshús sem myndi nota drag and drop hjá
 * Three.js
 * KIRI Engine (Til að skanna hlut)
 * Blender (Til að einfalda hierarchy)
+* [Poly Haven (Texture fyrir boxið)](https://polyhaven.com/a/dry_riverbed_rock)
 ## Útkoma
