@@ -3,6 +3,7 @@ Höfundur: Sindri Freysson
 Áfangi: FORR3FV05EU
 Skóli: Tækniskólinn
 ## Verkefnalýsing
+Verkefnið var að gera gagnvirkt uppboðshús sem myndi nota drag and drop hjá html en drag controls og orbit controls í three.js. Það væri hægt að draga mynd in á viewport og þá myndi birtast skannaður gltf hlutur.
 ## Myndband
 ## Heimildir og söfn notuð
 ## Útkoma
