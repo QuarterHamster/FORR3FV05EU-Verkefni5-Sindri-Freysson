@@ -12,3 +12,4 @@ Verkefnið var að gera gagnvirkt uppboðshús sem myndi nota drag and drop hjá
 * Blender (Til að einfalda hierarchy)
 * [Poly Haven (Texture fyrir boxið)](https://polyhaven.com/a/dry_riverbed_rock)
 ## Útkoma
+Það tók lengri tíma en áætlað var til láta Gltf að virka með drag controls. Éf hafði ekki nógu tíma til að útfæra "bidding" og uppboðshús virkni. Ég er ánægður með verkefnið en mig langar að bæta meiri hluti og láta þetta líta betur út.  
